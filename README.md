@@ -3,8 +3,8 @@ What is AI
 
 
 <div>
-    <h1>AI And Exponential Growth: A Guided Training Document for Brea Quinn</h1>
-    <p>This training document is intended to provide Brea Quinn, a marketing professional transitioning into the AI industry, with a comprehensive overview of exponential growth in AI, Neural Networks, Natural Language Processing (NLP), and Large Language Models (LLMs).</p>
+    <h1>AI And Exponential Growth: A Guided Training</h1>
+    <p>This training document is intended to for marketing professional transitioning into the AI industry, with a comprehensive overview of exponential growth in AI, Neural Networks, Natural Language Processing (NLP), and Large Language Models (LLMs).</p>
     <h2>Introduction</h2>
     <h3>Who is Geoffrey Hinton?</h3>
     <p><a href="https://www.youtube.com/watch?v=qrvK_KuIeJk">Here’s a brief overview</a> on Geoffrey Hinton, a pioneering figure in the domain of Artificial Intelligence (AI) and Neural Networks.</p>
